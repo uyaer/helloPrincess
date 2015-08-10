@@ -1,0 +1,19 @@
+<UserData>
+  <Properties>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="res.csi" />
+        </OpenedDocuments>
+        <ActiveDocument Path="res.csi" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Unknown" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
